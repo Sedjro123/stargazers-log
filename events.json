@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "fastapi/fastapi",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "url": "https://github.com/fastapi/fastapi",
+    "starred_at": "2025-02-18"
+  },
+  {
+    "repository": "sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps.",
+    "url": "https://github.com/sveltejs/svelte",
+    "starred_at": "2025-01-30"
+  },
+  {
+    "repository": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter.",
+    "url": "https://github.com/astral-sh/ruff",
+    "starred_at": "2024-12-12"
+  }
+]
